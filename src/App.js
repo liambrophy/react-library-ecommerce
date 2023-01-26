@@ -73,5 +73,3 @@ function App() {
 }
 
 export default App;
-
-//left at 1:31:15
